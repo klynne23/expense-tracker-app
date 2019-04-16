@@ -1,0 +1,21 @@
+@import url('https://fonts.googleapis.com/css?family=Poppins');
+
+.total {
+    font-size: 10rem;
+    margin: 0;
+    color: white;
+    font-family: 'Poppins';
+    transition: .5s;
+}
+
+@media (max-width:473px) {
+    .total {
+        font-size: 9rem;
+    }
+}
+
+@media (max-width:450px) {
+    .total {
+        font-size: 8.5rem;
+    }
+}

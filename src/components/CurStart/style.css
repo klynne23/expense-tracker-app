@@ -1,0 +1,8 @@
+.currentStartAmt {
+    border:1px solid white;
+    padding: 0px 20px;
+    margin: 0;
+    font-size: 3rem;
+    color: white;
+    background: rgba(0,0,0,.5);
+}

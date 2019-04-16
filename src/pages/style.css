@@ -1,0 +1,20 @@
+@import url('https://fonts.googleapis.com/css?family=Poppins');
+
+* {
+    font-family: 'Poppins';
+}
+
+.noMatch {
+    color: white;
+    text-align: center;
+}
+
+label.active {
+    color: #319e31;
+}
+
+input[type=text]:not(.browser-default), 
+input[type=text]:not(.browser-default):focus:not([readonly]) {
+    border-bottom: 1px solid #319e31;
+    box-shadow: 0 1px 0 0 #319e31
+}

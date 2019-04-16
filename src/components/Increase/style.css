@@ -1,0 +1,41 @@
+.collection .collection-item {
+    background-color: rgba(0,0,0,.5);
+    color: white;
+}
+
+.secondary-content {
+    color: white;
+}
+
+.collection .collection-item.avatar .title {
+    margin-bottom: 5px;
+}
+
+.collection .collection-item.avatar .expense {
+    margin-bottom: 5px;
+}
+
+i.fas.fa-comment-dollar.circle.green {
+    margin-top: 15px;
+}
+
+i.fas.fa-2x {
+    padding: 5px;
+    margin-top: 15px;
+}
+
+i.fa-trash-alt {
+    color: rgb(158, 158, 158);
+}
+
+i.fa-edit {
+    color: rgb(175, 243, 255);
+}
+
+i.fa-trash-alt, i.fa-edit {
+    transition: .3s;
+}
+
+i.fa-trash-alt:hover, i.fa-edit:hover {
+    transform: scale(1.3);
+}

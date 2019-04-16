@@ -1,0 +1,25 @@
+.collection .collection-item {
+    background-color: rgba(0,0,0,.5);
+    color: white;
+}
+
+.secondary-content {
+    color: white;
+}
+
+.collection .collection-item.avatar .title {
+    margin-bottom: 5px;
+}
+
+.collection .collection-item.avatar .expense {
+    margin-bottom: 5px;
+}
+
+i.fas.fa-comment-dollar.circle.red {
+    margin-top: 15px;
+}
+
+i.fas.fa-edit.fa-2x {
+    padding: 5px;
+    margin-top: 15px;
+}
